@@ -1,0 +1,44 @@
+
+# A list of organizers for the workshop
+# The order here determines the order they appear on the page
+
+ - name: Thomas Krendl Gilbert
+   website: https://www.thomaskrendlgilbert.com/
+   image: /assets/organizer-images/gilbert.jpg
+   bio: >
+    ​Thomas Krendl Gilbert is an interdisciplinary Ph.D. candidate in Machine Ethics and Epistemology at UC Berkeley, supported by the Center for Human-Compatible AI, the Simons Institute, and the Center for Long-Term Cybersecurity.
+    His interest in the societal implications of RL systems grows out of his affiliation with the Simons program on the Theory of Reinforcement Learning held during fall 2020.
+    Tom’s research examines how to ensure that the objectives for which we are optimizing in RL are aligned with normative social, political, and economic goals, and how notions of fairness, justice, equality, and rule of law can be prioritized in the design of our objectives, and objective functions.
+    Thomas’ recent work investigates how specific algorithmic learning procedures (such as RL) reframe classical ethical questions and recall the foundations of democratic political philosophy, namely the significance of popular sovereignty and dissent for resolving normative uncertainty and modeling human preferences.
+
+ - name: Tom Zick
+   website: https://cyber.harvard.edu/people/tom-zick
+   image: /assets/organizer-images/zick.jpg
+   bio: >
+    Tom Zick earned her PhD from UC Berkeley and is currently pursuing her JD at Harvard.
+    Her research bridges between AI ethics and law, with a focus on how to craft safe and equitable policy surrounding the adoption of AI in high-stakes domains.
+    In the past, she has worked as a data scientist at the Berkeley Center for Law and Technology, evaluating the capacity of regulations to promote open government data.
+    She has also collaborated with graduate students across social science and engineering to advocate for pedagogy reform focused on infusing social context into technical coursework.
+    Outside of academia, Tom has crafted digital policy for the City of Boston as a fellow for the Mayor’s Office for New Urban Mechanics and helped early stage startups develop responsible AI frameworks.
+    Her current research centers on the near term policy concerns surrounding reinforcement learning.
+    
+ - name: Nathan Lambert
+   website: https://www.natolambert.com/
+   image: /assets/organizer-images/nol.jpg
+   bio: >
+    Nathan Lambert is  a PhD Candidate at the University of California, Berkeley working at the intersection of machine learning and robotics. 
+    He is a member of the Department of Electrical Engineering and Computer Sciences, advised by Professor Kristofer Pister in the Berkeley Autonomous Microsystems Lab. 
+    Nathan has worked extensively with Roberto Calandra at Facebook AI Research and is joining DeepMind Robotics remotely for the summer of 2021. 
+    During his Ph.D., he was awarded the UC Berkeley EECS Demetri Angelakos Memorial Achievement Award for Altruism.
+
+
+
+ - name: Sarah Dean
+   website: https://sdean.website/
+   image: /assets/organizer-images/sdean.jpg
+   bio: >
+    Michael Dennis is a 5th year grad student at the Center for Human-Compatible AI.
+    With a background in theoretical computer science, he is working to close the gap between decision theoretic and game theoretic recommendations and the current state of the art approaches to robust RL and multi-agent RL.
+    The overall aim of this work is to ensure that our systems behave in a way that is robustly beneficial.
+    In the single agent setting, this means making decisions and managing risk in the way the designer intends.
+    In the multi-agent setting, this means ensuring that the concerns of the designer and those of others in the society are fairly and justly negotiated to the benefit of all involved.

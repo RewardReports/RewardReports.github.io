@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title | default: site.github.repository_name }}</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="assets/css/base.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
+
+  <div class="container" id="header">
+
+    <div>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div> <!-- navbar-header -->
+
+    <div class="collapse navbar-collapse" id="navbar-main">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-link"><a href="/">Home</a></li>
+        <li class="nav-link"><a href="/speakers.html">Speakers</a></li>
+        <li class="nav-link"><a href="/schedule.html">Schedule</a></li>
+        <li class="nav-link"><a href="/papers.html">Accepted Papers</a></li>
+        <li class="nav-link"><a href="/organizers.html">Organizers</a></li>
+        <li class="nav-link"><a href="/related-workshops.html">Related Workshops</a></li>
+      </ul>
+
+    </div> <!-- navbar-main -->
+
+  </div> 
+
+</nav> <!-- navbar -->
+
+<body>
+
+  <div class="container" id="content">
+
+    <div class="page-content">
+
+      <div class="row justify-content-center">
+        <img src={{site.logo}} class="img-fluid" style="max-width:50%" />
+        <div class="break"></div>
+        <h1 class="text-center">{{ site.title | default: site.github.repository_name }}</h1>
+        <div class="break"></div>
+        <h4 class="text-center"><a href="https://neurips.cc/Conferences/2021">Neural Information Processing Systems (NeurIPS)</a></h4>
+        <div class="break"></div>
+        <h4 class="text-center">December, 2021</h4>
+        <hr>
+
+      </div> <!-- row -->
+
+      {{ content }}
+
+    </div> <!-- container -->
+
+  </div> <!-- page-content -->
+
+  <nav class="navbar fixed-bottom navbar-light bg-light d-flex justify-content-center">
+    <a class="navbar-brand" href="mailto:perls.organizers@gmail.com">Contact Organizers</a>
+  </nav>
+
+</body>
+</html>

@@ -1,0 +1,84 @@
+
+# A list of confirmed speakers and panellists for the workshop
+# The order here determines the order they appear on the page
+
+
+ - name: Stuart Russell
+   affiliation: "Professor of Computer Science at the University of California and author of \"Artificial Intelligence: A Modern Approach\""
+   website: https://people.eecs.berkeley.edu/~russell/
+   image: /assets/organizer-images/russell.jpg
+
+ - name: Mark Nitzberg
+   affiliation: Executive Director, CHAI Berkeley
+   website: https://www.linkedin.com/in/nitzberg/
+   image: /assets/speaker-images/nitzburg.jpg
+
+ - name: Natasha Jaques
+   affiliation: Research Scientist at Google Brain, Post-doc at UC Berkeley
+   website: https://research.google/people/NatashaJaques/
+   image: /assets/speaker-images/jaques.jpg
+
+ - name: Frank Pasquale
+   affiliation: Professor of Law, Brooklyn Law School
+   website: https://www.brooklaw.edu/Contact-Us/Pasquale-Frank
+   image: /assets/speaker-images/pasquale.jpg
+
+ - name: Jessica Forde
+   affiliation: PhD Student, Brown University
+   website: https://jzf2101.github.io/
+   image: /assets/speaker-images/forde.jpeg
+
+ - name: Michael Littman
+   affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
+   website: https://www.littmania.com/
+   image: /assets/speaker-images/littman.jpg
+
+ - name: Mireille Hildebrandt
+   affiliation: Tenured Research Professor on Interfacing Law and Technology
+   website: https://lsts.research.vub.be/en/mireille-hildebrandt/
+   image: /assets/speaker-images/hilderbrandt.jpg
+
+ - name: Jonathan Stray
+   affiliation: Visiting Scholar, Berkeley CHAI
+   website: http://jonathanstray.com/me
+   image: /assets/speaker-images/stray.jpg
+
+ - name: Salomé Viljoen
+   affiliation: Academic Fellow and Lecturer in Law, Columbia Law School
+   website: https://www.salomeviljoen.com/
+   image: /assets/speaker-images/viljoen.jpg
+
+ - name: Jake Goldenfein
+   affiliation: Senior Lecturer, Melbourne Law School
+   website: https://law.unimelb.edu.au/about/staff/jake-goldenfein
+   image: /assets/speaker-images/goldenfein.jpg
+
+ - name: Ivana Dusparic
+   affiliation: Ussher Assistant Professor in Future Cities and the Internet of Things, Trinity College Dublin
+   website: https://www.scss.tcd.ie/Ivana.Dusparic/
+   image: /assets/speaker-images/dusparic.jpg
+
+ - name: Finale Doshi-Velez
+   affiliation: John L. Loeb associate professor in Computer Science at the Harvard Paulson School of Engineering and Applied Sciences
+   website: https://www.hks.harvard.edu/about/finale-doshi-velez
+   image: /assets/speaker-images/doshi-velez.jpg
+
+ - name: Rachel Thomas
+   affiliation: Founder of Centre for Applied Data Ethics at University of San Francisco, co-founder of fast.ai
+   website: https://rachel.fast.ai/
+   image: /assets/speaker-images/thomas.jpg
+
+ - name: Mason Kortz
+   affiliation: Clinical instructor, Harvard Law School Cyberlaw Clinic
+   website: https://cyber.harvard.edu/people/mkortz
+   image: /assets/speaker-images/kortz.jpg
+
+ - name: Evi Micha
+   affiliation: Postgraduate Affiliate, Vector Institute for Artificial Intelligence
+   website: http://www.cs.toronto.edu/~emicha/
+   image: /assets/speaker-images/micha.jpg
+
+ - name: Ayse Gizem Yasar
+   affiliation: PhD Candidate, Sciences Po Law School
+   website: https://www.sciencespo.fr/ecole-de-droit/en/profile/gizem-yasar-ayse.html
+   image: /assets/speaker-images/yasar.jpg

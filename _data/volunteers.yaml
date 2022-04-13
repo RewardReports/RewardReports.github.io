@@ -1,0 +1,23 @@
+
+# A list of volunteers for the workshop
+# The order here determines the order they appear on the page
+
+ - name: Deborah Morgan
+   website: https://cdt-art-ai.ac.uk/students/deborah-morgan/
+   image: /assets/volunteer-images/morgan.jpg
+   bio: > 
+    Deborah Morgan is a PhD student within the Centre for Accountable, Responsible and Transparent AI in the Department of Computer Science at the University of Bath, UK.
+    She holds an LLB Law degree and previously practiced law as a corporate projects lawyer in the UK.
+    She has also worked within industry as a communications consultant and in education.
+    She holds an MSt in Education from the University of Cambridge where her research explored feedback methods within narrative writing.
+    Her current PhD research explores the legal and societal challenges of regulating AI systems, in particular the use of experimental legal methods and regulatory sandboxes.
+
+ - name: Blake Elias
+   website: http://blakeelias.name/
+   image: /assets/volunteer-images/elias.png
+   bio: > 
+    Blake Elias is a researcher at the New England Complex Systems Institute, working under Yaneer Bar-Yam.
+    His current research applies game theory and control theory to inform optimal pandemic response.
+    His broader interests include the application of AI to problems of coordination, governance and public policy.
+    Previously, he was an AI Resident at Microsoft Research working on neural-symbolic computation and human-AI collaboration.
+    Before this, he completed his SB and MEng degrees at MIT in Electrical Engineering and Computer Science, where he worked in the Media Lab and Synthetic Biology Center.
