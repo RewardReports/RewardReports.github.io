@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Political Economy of Reinforcement Learning (PERLS) Workshop
-email: perls-workshop@fastmail.com
+title: Reward Reports for Reinforcement Learning
+email: geese-org@lists.berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the Political Economy of Reinforcement Learning workshop.
+  Website for the Reward Reports.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-logo: assets/img/leviathan.png
+logo: assets/img/rewardreports2.png
+repository: RewardRewards/RewardReports.github.io
 
 # Build settings
 markdown: kramdown

@@ -37,8 +37,4 @@
    website: https://sdean.website/
    image: /assets/organizer-images/sdean.jpg
    bio: >
-    Michael Dennis is a 5th year grad student at the Center for Human-Compatible AI.
-    With a background in theoretical computer science, he is working to close the gap between decision theoretic and game theoretic recommendations and the current state of the art approaches to robust RL and multi-agent RL.
-    The overall aim of this work is to ensure that our systems behave in a way that is robustly beneficial.
-    In the single agent setting, this means making decisions and managing risk in the way the designer intends.
-    In the multi-agent setting, this means ensuring that the concerns of the designer and those of others in the society are fairly and justly negotiated to the benefit of all involved.
+    TODO
