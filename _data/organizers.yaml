@@ -24,7 +24,7 @@
     
  - name: Nathan Lambert
    website: https://www.natolambert.com/
-   image: /assets/organizer-images/nol.jpg
+   image: /assets/organizer-images/lambert.jpg
    bio: >
     Nathan Lambert is  a PhD Candidate at the University of California, Berkeley working at the intersection of machine learning and robotics. 
     He is a member of the Department of Electrical Engineering and Computer Sciences, advised by Professor Kristofer Pister in the Berkeley Autonomous Microsystems Lab. 
@@ -35,6 +35,8 @@
 
  - name: Sarah Dean
    website: https://sdean.website/
-   image: /assets/organizer-images/sdean.jpg
+   image: /assets/organizer-images/dean.jpg
    bio: >
     TODO
+
+

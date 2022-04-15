@@ -24,9 +24,10 @@ layout: default
     {% endfor %}
 </div>
 
-# Volunteers
 
-We are indebted to our 2021 workshop volunteers!
+# Contributors
+
+Other contributors to the reward reports line of work include.
 
 <div class="container">
     {% for volunteer in site.data.volunteers %}
@@ -48,6 +49,8 @@ We are indebted to our 2021 workshop volunteers!
     {% endfor %}
 </div>
 
+<!-- 
+
 # Reviewers
 
 In addition to the workshop organizers, our workshop reviewer comittee includes the following members:
@@ -59,4 +62,6 @@ In addition to the workshop organizers, our workshop reviewer comittee includes 
 <a target="blank" href="https://au.linkedin.com/in/camerondgordon">Cameron Gordon</a>, 
 <a target="blank" href="https://www.linkedin.com/in/xiaoguo-neuhkuuq">Xiao Guo</a>, 
 <a target="blank" href="https://www.natolambert.com/">Nathan Lambert</a>, and
-<a target="blank" href="https://research.qut.edu.au/adms/people/abdul-obeid/">Abdul Obeid</a>.
+<a target="blank" href="https://research.qut.edu.au/adms/people/abdul-obeid/">Abdul Obeid</a>. 
+
+-->

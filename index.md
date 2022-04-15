@@ -2,7 +2,6 @@
 layout: default
 ---
 
-The RLDM 2022 Workshop on Building Accountable and Transparent RL is on <span class="important">Saturday, June 11th</span>, time zone: <span class="important">New York (USA)</span>. This will be a  <span class="important">hybrid event</span>.
 
 <!-- <span class="click-to-join">[>> Click here to join the workshop live-stream <<](https://neurips.cc/virtual/2021/workshop/21864)</span> -->
 
@@ -30,4 +29,4 @@ Register for the Multi-disciplinary Conference on Reinforcement Learning and Dec
 
 TODO
 
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSOu8dPtBHHG126JJ5ns3TFVj4c_bnZiZflOcmG31h9l55xQ/viewform?embedded=true" width="100%" height="600pt" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtARZRCD80KADgF9uADxlxgZ-e5ub4es7ETM4iHXcSAJQUpg/viewform?embedded=true" width="100%" height="752" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
