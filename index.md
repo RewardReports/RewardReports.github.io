@@ -27,6 +27,6 @@ Our ultimate goal will be to map near-term societal concerns and indicate possib
 Register for the Multi-disciplinary Conference on Reinforcement Learning and Decision Making ([RLDM](https://rldm.org/)).
 <!-- Contact the organizors  -->
 
-TODO
+Send us a message with any questions!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtARZRCD80KADgF9uADxlxgZ-e5ub4es7ETM4iHXcSAJQUpg/viewform?embedded=true" width="100%" height="752" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

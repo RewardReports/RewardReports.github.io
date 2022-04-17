@@ -24,7 +24,7 @@
     
  - name: Nathan Lambert
    website: https://www.natolambert.com/
-   image: /assets/organizer-images/lambert.jpg
+   image: /assets/organizer-images/lambert.jpeg
    bio: >
     Nathan Lambert is  a PhD Candidate at the University of California, Berkeley working at the intersection of machine learning and robotics. 
     He is a member of the Department of Electrical Engineering and Computer Sciences, advised by Professor Kristofer Pister in the Berkeley Autonomous Microsystems Lab. 
@@ -35,8 +35,10 @@
 
  - name: Sarah Dean
    website: https://sdean.website/
-   image: /assets/organizer-images/dean.jpg
+   image: /assets/organizer-images/dean.jpeg
    bio: >
-    TODO
+    Sarah Dean is an Assistant Professor in the Computer Science Department at Cornell. 
+    She recently completed a PhD in EECS from UC Berkeley and was a postdoc at the University of Washington. 
+    Sarah is interested in the interplay between optimization, machine learning, and dynamics, and her research focuses on understanding the fundamentals of data-driven control and decision-making.
 
 
