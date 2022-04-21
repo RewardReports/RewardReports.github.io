@@ -47,11 +47,13 @@
     <div class="page-content">
 
       <div class="row justify-content-center">
-        <img src={{site.logo}} class="img-fluid" style="max-width:300px; float: left;" />
-        <!-- <div class="break"></div> -->
-        <h1 class="text-center">{{ site.title | default: site.github.repository_name }}</h1>
+        <table>
+          <tr> <td><img src={{site.logo}} style="max-width:300px; " /> </td>
+        <td>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <div class="break"></div>
-        <h3 class="text-center"><em>Towards Documentation and Understanding of Dynamic Machine Learning Systems</em></h3>
+        <h3 class="text-center"><em>Towards Documentation and Understanding of Dynamic Machine Learning Systems</em></h3></div>
+        </td></tr></table>
         <div class="break"></div>
         
         <!-- <h4 class="text-center"></h4> -->
