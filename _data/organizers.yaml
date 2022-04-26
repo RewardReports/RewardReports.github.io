@@ -6,10 +6,11 @@
    website: https://www.thomaskrendlgilbert.com/
    image: /assets/organizer-images/gilbert.jpg
    bio: >
-    ​Thomas Krendl Gilbert is an interdisciplinary Ph.D. candidate in Machine Ethics and Epistemology at UC Berkeley, supported by the Center for Human-Compatible AI, the Simons Institute, and the Center for Long-Term Cybersecurity.
-    His interest in the societal implications of RL systems grows out of his affiliation with the Simons program on the Theory of Reinforcement Learning held during fall 2020.
-    Tom’s research examines how to ensure that the objectives for which we are optimizing in RL are aligned with normative social, political, and economic goals, and how notions of fairness, justice, equality, and rule of law can be prioritized in the design of our objectives, and objective functions.
-    Thomas’ recent work investigates how specific algorithmic learning procedures (such as RL) reframe classical ethical questions and recall the foundations of democratic political philosophy, namely the significance of popular sovereignty and dissent for resolving normative uncertainty and modeling human preferences.
+    Thomas Krendl Gilbert is a postdoctoral fellow at the Digital Life Initiativeat Cornell Tech in New York City. 
+    He previously designed and received a
+    Ph.D. in Machine Ethics and Epistemology at the University of California
+    at Berkeley, Berkeley, CA, USA. Thomas researches the emerging political
+    economy of AI, in particular reinforcement learning systems.
 
  - name: Tom Zick
    website: https://cyber.harvard.edu/people/tom-zick
