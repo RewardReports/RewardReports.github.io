@@ -19,7 +19,7 @@ The majority of the workshop will be interactive, with participants trying out a
 ## Format -- The (Un)Workshop
 We intend for this workshop to be a generative and interactive space for participants to try out and critique our Reward Reports proposal. As such, activities will be centered around doing and sharing in small groups, punctuated by periodic larger group discussions. We will begin with a round of introductions to create a friendly environment. After a presentation about the Reward Reports proposal by the organizers, participants will form small groups (2-3) based on target RL applications (real or imagined). Much of the workshop time will entail actually writing Reward Report-style documentation. Periodically, participants will form medium-sized groups based on application domain to discuss challenges or give feedback on drafts. Finally, we will conclude with a workshop-wide discussion on the practicality of the Reward Reports framework and elements that may be missing. We hope that by the end of the workshop, there will be two concrete outputs: a rich set of example RRs, and a list of refinements for the Reward Reports framework.
 
-To learn more about Reward Reports, see the [Reward Reports paper](/assets/reward_reports_for_rl.pdf), the [CLTC RL Risks Whitepaper](http://arxiv.org/abs/2202.05716), or the [github repo](https://github.com/RewardReports/reward-reports) with a template.
+To learn more about Reward Reports, see the [Reward Reports paper](https://arxiv.org/abs/2204.10817), the [CLTC RL Risks Whitepaper](http://arxiv.org/abs/2202.05716), or the [github repo](https://github.com/RewardReports/reward-reports) with a template.
 
 
 # How to participate
