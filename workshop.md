@@ -6,6 +6,8 @@ layout: default
 
 **This RLDM 2022  Workshop is on Saturday June 11th from 1:00-5:00pm EST.**
 
+You can find the slides for the workshop [here](https://docs.google.com/presentation/d/1hKqINzQhzYyDKY9juqI0vopZ3unGra1w3puunSRDAUo/edit?usp=sharing).
+
 ## Motivation
 
 When RL is used in societally relevant domains, practitioners must balance contested values, while anticipating and responding to resulting downstream effects. 
