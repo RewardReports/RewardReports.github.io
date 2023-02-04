@@ -45,32 +45,3 @@ Send us a message with any questions!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtARZRCD80KADgF9uADxlxgZ-e5ub4es7ETM4iHXcSAJQUpg/viewform?embedded=true" width="100%" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
-# Workshop Organizers
-
-<div class="row justify-content-center">
-    {% for panelist in site.data.organizers %}
-        <div class="text-center speaker">
-            <img src="{{ panelist.image }}" class="speaker-img" />
-
-            <div class="break"></div>
-
-            {% if panelist.website %}
-            <a href="{{ panelist.website }}" target="_blank" >
-                {{ panelist.name }}
-            </a>
-            {% else %}
-                {{ panelist.name }}
-            {% endif %}
-
-            <div class="break"></div>
-
-            <div class="speaker-affiliation">
-            {% if panelist.affiliation %}
-                {{ panelist.affiliation }}
-            {% endif %}
-            </div>
-        </div>
-    {% endfor %}
-</div>
-
